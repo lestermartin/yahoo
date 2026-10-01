@@ -2,7 +2,7 @@
 An homage to the original YAHOO! directory of yesteryear (and a convenient place for me to store bookmarks ;)
 
 <p align="center">
-  <img src="https://github.com/lestermartin/yahoo/blob/main/YahooDirectory.jpeg?raw=true" alt="YAHOO!">
+  <img src="https://github.com/lestermartin/yahoo/blob/main/YahooDirectory.png?raw=true" alt="YAHOO!">
 </p>
 
 |               |               |
