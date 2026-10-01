@@ -7,6 +7,9 @@ An homage to the original YAHOO! directory of yesteryear (and a convenient place
 
 ## Lester's links
 
+![Lester](https://github.com/lestermartin/yahoo/blob/main/lester.jpeg?raw=true "Lester")
+More info and links about Lester at https://linktr.ee/lestermartin 
+
 |               |               |
 | ------------- | ------------- | 
 | **Art & Humanities**<br>Literature, Photography, ... | **News & Media**<br>Full Coverage, Newspaper, TV, ... |
