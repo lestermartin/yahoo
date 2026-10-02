@@ -1,6 +1,6 @@
-# Lester's YAHOO! Directory
+# Lester's **_<font style="color: red;">YAHOO!</font>_** Directory
 
-[YAHOO!](../README.md) | Computers & Internet
+[**_<font style="color: red;">YAHOO!</font>_**](../README.md) | Computers & Internet
 
 * Internet
 * WWW

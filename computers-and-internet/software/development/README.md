@@ -1,6 +1,6 @@
-# Lester's YAHOO! Directory
+# Lester's **_<font style="color: red;">YAHOO!</font>_** Directory
 
-[YAHOO!](../../../README.md) | [Computers & Internet](../../README.md) | [Software](../README.md) | Development
+[**_<font style="color: red;">YAHOO!</font>_**](../../../README.md) | [Computers & Internet](../../README.md) | [Software](../README.md) | Development
 
 *  **Agile**
     * [Agile Manifesto](https://agilemanifesto.org/) 🔗
