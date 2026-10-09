@@ -6,4 +6,5 @@
 * [Movies](./movies/README.md) 📁
 * Humor
 * [Music](./music/README.md) 📁
-  
+* [YouTube](./youtube/README.md) 📁
+* [Shows](./shows/README.md) 📁
