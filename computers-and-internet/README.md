@@ -6,5 +6,6 @@
 * WWW
 * [Software](./software/README.md) 📁
     * [Development](./software/development/README.md) 📁
+    * [Databases](./software/databases/README.md) 📁
     * [Operating Systems](./software/operating-systems/README.md) 📁
 * Games
