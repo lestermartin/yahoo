@@ -23,12 +23,21 @@
 * Fav albums 🚧
     * [Pelican West - Haircut 100](https://open.spotify.com/album/4zTr9MzKfIYUYVSDkcJ3Zx?si=tM1-DevaShi1gcjtSNMlqw)
     * [Fashion Nugget - Cake](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1?si=IET39voDROSooGbvaAseUQ)
-    * [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw?si=A09lfPODSK2KKcZPiSlb0g)
+    * Singles: 45's and Under - Squeeze
+    * Graceland - Paul Simon
+    * Genesis (self-titled)
+    * Abacab - Genesis
+    * Electric - The Cult
+    * Get Lucky - Loverboy
+    * Blood Sugar Sex Magic - Red Hot Chili Peppers
+    * Apollo 18 - They Might Be Giants
+    * [The Stone Roses (self-titled)](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw?si=A09lfPODSK2KKcZPiSlb0g)
     * [O Brother, Where Art Thou? - Soundtrack](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ?si=JotF9qsSTbG3wEOaYV7imA)
     * [Blurryface - Twenty One Pilots](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1?si=5aPc9e1yTEeBvefUUD-6EA)
-    * [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i?si=ZRWfiecKRNyb2QnYNG0FXQ)
+    * [Le Tigre (self-titled)](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i?si=ZRWfiecKRNyb2QnYNG0FXQ)
     * [Light & Magic - Ladytron](https://open.spotify.com/album/0QDlF2KvGRoCUPRE1jFJ1C?si=Sj_1InogRfuFScv6CirA5w)
     * [Licensed to Ill - Beastie Boys](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb?si=fkjCzpAxRjmA5MdIn8X7OQ)
     * [Rebuild the Wall - Luther Wright & the Wrongs](https://www.youtube.com/playlist?list=PLAB-2UoLjyeEboQ81XvrnwDqjOIiPdpHz) (Bluegrass cover of Pink Floyd's The Wall)
     * [Escape - Journey](https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm?si=iPkgiWmkQ6CWRtoR9PN7og)
     * [4 - Foreigner](https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu?si=2_Y56KFcRvuMcT2BFdJXtA)
+    * Puzzle - Dada
