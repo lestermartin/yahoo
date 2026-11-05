@@ -13,3 +13,27 @@
 * [National Lampoon's Vacation](https://www.imdb.com/title/tt0085995/)
 * [Silence of the Lambs](https://www.imdb.com/title/tt0102926/)
 * [Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
+* Military
+    * Apocolypse Now
+    * We Were Soldiers
+    * Taps
+    * Gardens of Stone
+* Reincarnation
+    * What Dreams May Come
+    * Made in Heaven
+    * Heaven Can Wait
+* Philisophical / Religious
+    * Man From Earth
+    * Being Human
+    * ugh... the AI film about the author in prison (had birds on its cover?)
+    * The Rapture
+* Weird
+    * How to get ahead in advertising
+* Apocolyptic
+    * V for Vendetta
+    * Handmaid’s Tale
+* Suspense
+    * No Way Out
+* Zombie 
+    * Dawn of the Dead (original)
+    * Bubba Ho-Tep
