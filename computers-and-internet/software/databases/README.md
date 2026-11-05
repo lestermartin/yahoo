@@ -2,6 +2,8 @@
 
 [**_<font style="color: red;">YAHOO!</font>_**](../../../README.md) | [Computers & Internet](../../README.md) | [Software](../README.md) | Databases
 
+* SQL
+    * [Window functions](./PostgreSQL_Window_Functions.pdf) 💾-pdf
 * Data normalization
     * [IBM write-up](https://www.ibm.com/think/topics/database-normalization) 🔗
     * [Old poster](5NL.jpg) 💾-img
